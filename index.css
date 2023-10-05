@@ -6,13 +6,13 @@ table {
 
 th,
 td {
-  border: 1px solid #dddddd;
+  border: 1px solid #55d4e7;
   text-align: left;
   padding: 8px;
 }
 
 th {
-  background-color: #b42626;
+  background-color: #04b4ff;
 }
 
 .tabla-titulo {
@@ -32,7 +32,8 @@ body {
   min-height: 100vh;
   gap: 1rem;
   color: white;
-  background-color: rgb(77, 72, 155);
+  background: linear-gradient(to bottom right, #016df8, #1119c4);
+  font-family: sans-serif;
 }
 
 div {
