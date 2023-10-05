@@ -50,3 +50,15 @@ div {
 .bronce {
   background-color: #bf8970;
 }
+
+@media (max-width: 850px) {
+  div {
+    width: 500px;
+  }
+}
+
+@media (max-width: 550px) {
+  div {
+    width: 310px;
+  }
+}
