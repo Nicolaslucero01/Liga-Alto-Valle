@@ -1,23 +1,24 @@
 table {
   border-collapse: collapse;
   width: 100%;
-  margin: 20px auto;
 }
 
 th,
 td {
-  border-bottom: 1px solid #55d4e7;
   text-align: left;
-  padding: 8px;
+  padding: 4px 8px;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.397);
 }
 
 th {
   background-color: #04b4ff;
+  height: 30px;
 }
 
 .tabla-titulo {
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 2em;
   text-align: center;
 }
 
@@ -34,6 +35,8 @@ body {
   color: white;
   background: linear-gradient(to bottom right, #016df8, #1119c4);
   font-family: sans-serif;
+  gap: 3rem;
+  margin-bottom: 3rem;
 }
 
 div {
