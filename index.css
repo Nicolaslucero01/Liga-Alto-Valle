@@ -65,4 +65,9 @@ div {
   div {
     width: 310px;
   }
+
+  .actualizacion {
+    text-align: center;
+    width: 100%;
+  }
 }
